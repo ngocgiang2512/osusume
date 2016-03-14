@@ -1,10 +1,17 @@
+@charset "UTF-8";
 /* style.scss */
 .test {
   background-color: teal;
   color: #fff; }
 
+body {
+  font-family: "游ゴシック","YuGothic","Hiragino Kaku Gothic ProN","Hiragino Kaku Gothic Pro","ＭＳ ゴシック",sans-serif; }
+
 .wrapper {
   margin: 0 auto;
   width: 1180px; }
+
+.block {
+  margin-bottom: 30px; }
 
 /*# sourceMappingURL=style.css.map */
